@@ -13,4 +13,3 @@ mtu_wa_duka.tuma_request()
 nduthi_guy.chukua_request(mtu_wa_duka)
 nduthi_guy.peana_mikate(mtu_wa_duka)
 
-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
