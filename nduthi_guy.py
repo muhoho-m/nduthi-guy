@@ -2,7 +2,9 @@
 # import python
 
 class NduthiGuy:
-    # msee wa nduthi anainiitialize na jina, with an empty list of crates and requests
+    # msee wa nduthi anainiitialize na
+    # jina, with an empty list of crates and
+    # requests
     def __init__(self, jina):
         self.jina = jina
         self.crates = []
